@@ -1,0 +1,13 @@
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\bin\Debug\WindowsFormsDI.exe.config
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\bin\Debug\WindowsFormsDI.exe
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\bin\Debug\WindowsFormsDI.pdb
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\bin\Debug\Ninject.dll
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\bin\Debug\Ninject.xml
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.Form1.resources
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.Properties.Resources.resources
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.csproj.GenerateResource.cache
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.csproj.CoreCompileInputs.cache
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.csproj.CopyComplete
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.exe
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.pdb
+C:\Users\sritharan\Downloads\WinFormsDI-master\WinFormsDI-master\WindowsFormsDI\obj\Debug\WindowsFormsDI.csprojAssemblyReference.cache
